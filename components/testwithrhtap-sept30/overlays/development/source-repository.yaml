@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: testwithrhtap-sept30-repository
+spec:
+  url: https://github.com/jdubrick-ai/testwithrhtap-sept30
